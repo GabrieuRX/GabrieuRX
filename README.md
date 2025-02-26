@@ -8,3 +8,6 @@
 - 👥️ Estou procurando colaborar em projetos em geral e ganhar experiência na área de programação
 - 🤔 Estou procurando ajuda com estudos na área
 - 📫 Como entrar em contato comigo: meu e-mail : rsgabrielxll@gmail.com
+- linkedinOficial = www.linkedin.com/in/gabrieuu-rodrigues-programador-back-end
+
+
