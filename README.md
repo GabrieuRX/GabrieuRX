@@ -2,6 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou estudando pelo curso da @ALURA
+- cursando no momento (ADS) Analise e desenvolvimento de sistemas 3/5 pela UNIFAP
 - 🌱 Atualmente estou aprendendo python, javascript, html, CSS : -<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 
