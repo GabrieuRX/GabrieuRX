@@ -1,14 +1,15 @@
-# Olá, me chamo Gabriel Rodrigues Silva ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Gabriel
 
-- 🔭 Atualmente estou estudando pelo curso da @ALURA
+- Estudante @ALURA
 - cursando no momento (ADS) Analise e desenvolvimento de sistemas 3/5 pela UNIFAP
-- 🌱 Atualmente estou aprendendo python e JAVA : -<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40"/>
+- APRENDENDO: 
+ 
+          
+<img src="https://devicon-website.vercel.app/api/java/original.svg" width="40" height="40"/> <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" width="40" height="40"/> <img src="https://devicon-website.vercel.app/api/react/original.svg" width="40" height="40"/> <img src="https://devicon-website.vercel.app/api/intellij/plain.svg"  width="40" height="40"/>
 
 
 - 👥️ Estou procurando colaborar em projetos em geral e ganhar experiência na área de programação
-- 🤔 Estou procurando ajuda com estudos na área
-- 📫 Como entrar em contato comigo: meu e-mail : rsgabrielxll@gmail.com
+- e-mail : rsgabrielxll@gmail.com
 - linkedinOficial = www.linkedin.com/in/gabrieuu-rodrigues-programador-back-end
 
 
